@@ -1,0 +1,22 @@
+.box{
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+    text-transform: uppercase;
+    text-decoration: underline;
+    line-height: 20px;
+    text-align: center;
+    background-color: brown;
+    height: 20px;
+    width: 100px;
+    padding: 60px 20px;
+    margin: 20px;
+    border: 10px;
+    border-color: black;
+    border-style: solid;
+
+
+
+}

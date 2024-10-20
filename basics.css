@@ -1,0 +1,41 @@
+.text-para{
+    color: red;
+    font: size 24px;
+    background-color: yellow;
+    font-weight: 600;
+    text-decoration: underline;
+    line-height: 50px;
+    background-image: url(http://127.0.0.1:5500/public/image.jpg);
+    height: 800px;
+    width: 300px;
+    overflow: scroll;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-width: 4px;
+    border-color: red;
+    border-style: solid;
+    border-radius: 20px;
+    margin-top: 40px;
+    margin-left: 40px;
+}
+.main_text{
+    font-family: cursive;
+    color: blue;
+}
+.not-underline{
+    text-decoration: none;
+}
+.normal-text{
+    color: rgb(255,100,50);
+}
+
+ul{
+    width: 30%;
+}
+li{
+    width: 50%;
+}
